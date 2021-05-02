@@ -4,7 +4,7 @@ require 'ComprobacionPar.php';
 
 class ParTest extends TestCase
 {
-    private par$;
+    private $par;
  
     protected function setUp(): void
     {
