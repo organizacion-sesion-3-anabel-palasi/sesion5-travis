@@ -2,12 +2,12 @@
 class esPar 
 {
  
-    public function par($numero) : boolean 
+    public function par($numero) : bool 
     {
 	    if ($numero % 2 == 0)
-		    return True
+		    return True;
 	    else
-		    return False
+		    return False;
     }
  
 }

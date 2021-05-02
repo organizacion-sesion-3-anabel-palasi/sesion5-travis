@@ -31,6 +31,4 @@ class ParTest extends TestCase
         $result = $this->par->par(2);
         $this->assertEquals(True, $result);
     }
-
-
-
+}
