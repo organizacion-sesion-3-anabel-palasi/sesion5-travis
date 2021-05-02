@@ -12,6 +12,7 @@ class Calculator
         return $a * $b;
     }
 
+    // Calcula la division
     public function division($a, $b): float
     {
         return $a / $b;
